@@ -1,3 +1,0 @@
-Build a layers module that includes 6 layers of varied encryption types
-Design an algorith that encrypts each individual letter separately based on a randomly generated key, one of 6
-After each 6th digit is encrypted, it switches to another set of encryption keys for a total of 36 keys
